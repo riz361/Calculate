@@ -1,0 +1,9 @@
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\AddSubtract\AddSubtract\bin\Debug\AddSubtract.exe.config
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\AddSubtract\AddSubtract\bin\Debug\AddSubtract.exe
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\AddSubtract\AddSubtract\bin\Debug\AddSubtract.pdb
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\AddSubtract\AddSubtract\obj\Debug\AddSubtract.csprojResolveAssemblyReference.cache
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\AddSubtract\AddSubtract\obj\Debug\AddSubtract.Form1.resources
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\AddSubtract\AddSubtract\obj\Debug\AddSubtract.Properties.Resources.resources
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\AddSubtract\AddSubtract\obj\Debug\AddSubtract.csproj.GenerateResource.Cache
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\AddSubtract\AddSubtract\obj\Debug\AddSubtract.exe
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\AddSubtract\AddSubtract\obj\Debug\AddSubtract.pdb
